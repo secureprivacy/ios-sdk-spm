@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "SecurePrivacyMobileConsent",
-            targets: ["SecurePrivacyMobileConsent"]
+            targets: ["SPMobileConsent"]
         ),
     ],
     targets: [
