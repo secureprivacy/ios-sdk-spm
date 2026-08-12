@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMobileConsent",
-            url: "https://cdn.secureprivacy.ai/cocoapods/SPMobileConsent.xcframework-v0.3.6.zip",
-            checksum: "c5a0293ef60af1ac91331aac8b8a4b5e1d6b727c749b8dea8fa36de944ba153d"
+            url: "https://cdn.secureprivacy.ai/cocoapods/SPMobileConsent.xcframework-v0.3.7.zip",
+            checksum: "8ea399149886883cc7a1e6b97063fe015ff26d3f4f4b205862975e4bb19d0b9d"
         )
     ]
 )
